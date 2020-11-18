@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710858324131",
+    "firebase_url": "https://going-online.firebaseio.com",
+    "project_id": "going-online",
+    "storage_bucket": "going-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710858324131:android:a2074aac325ad33f86a716",
+        "android_client_info": {
+          "package_name": "in.ks.KS_Stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710858324131-4ksmede5dqabe9g5k33cmf5r1u10hfbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ks.KS_Stores",
+            "certificate_hash": "9077e7dd8348ac507ae77bba26258ce3fcd76475"
+          }
+        },
+        {
+          "client_id": "710858324131-m9icrbucv276eunk2hu6kmd4qrsf5lt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV866zQxlVWDPN7Z9xoTVg1brnUBy-Adc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710858324131-m9icrbucv276eunk2hu6kmd4qrsf5lt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
